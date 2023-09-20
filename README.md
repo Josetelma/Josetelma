@@ -7,7 +7,7 @@ I'm Josetelma, I'm a Front End programmer, I'm currently learning and creating p
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <br>
 <br>
-### Conect with me:
+
 <p>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus-a9729728b/
 <img align="left" alt="linkedin" width="22px" src="https://w7.pngwing.com/pngs/754/190/png-transparent-linkedin-computer-icons-organization-social-media-linkedin-logo-blue-text-resume-thumbnail.png>"
