@@ -11,6 +11,7 @@
      Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, CSS e estou dando os primeiros passos no aprendizado de JavaScript e React.
       <br>
       <br>
+    <h2> 🛠 &nbsp;Tech Stack</h2>
       <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
