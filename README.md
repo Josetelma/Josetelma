@@ -4,11 +4,14 @@
     Olá  :blush: 
     <br>
     Meu nome é Josetelma :octocat:
-    <a href="https://www.linkedin.com/in/edududuribeiro/"></a>
+    <br>
+    <div align="center">
+<a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   </h1>
   
   <p align="center">
-     Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, CSS e estou dando os primeiros passos no aprendizado de JavaScript e React.
+     Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, JavaScript e React.
       <br>
       <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -49,10 +52,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
  
-</div><br>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
