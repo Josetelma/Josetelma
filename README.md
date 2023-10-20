@@ -1,18 +1,16 @@
-<div>
-  
-  <h1 align="center">
+<h1>
     Olá  :blush: 
     <br>
     Meu nome é Josetelma :octocat:
     <br>
-    <div align="center">
+    <di>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   </h1>
-  
-  <p align="center">
-     Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, JavaScript e React.
-      <br>
+
+  <h2> &nbsp;About Me </h2>
+     <p>Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, JavaScript e React.
+      </p>
       <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
       <h3>💻 &nbsp;Front-end:</h3>
