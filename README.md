@@ -5,6 +5,7 @@
     <br>
     Meu nome é Josetelma :octocat:
     <a href="https://www.linkedin.com/in/edududuribeiro/"></a>
+    <a href="mailto:radijosirm@gmail.com"><img src="https:[//img.shields.io/badge/-josetelma.radijosirm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)/></a>
   </h1>
   
   <p align="center">
@@ -31,8 +32,6 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
-<a href="mailto:radijosirm@gmail.com"><img src="https:[//img.shields.io/badge/-josetelma.radijosirm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)/></a>
 </div>
 
 <div align="center">
