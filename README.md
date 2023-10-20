@@ -2,8 +2,6 @@
     Olá  :blush: 
     <br>
     Meu nome é Josetelma :octocat:
-
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)-radijosirm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
     <br>
     <div>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
