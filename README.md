@@ -2,13 +2,9 @@
     Olá  :blush: 
     <br>
     Meu nome é Josetelma :octocat:
-    <br>
-    <div>
-<a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  </h1>
+</h1>
 
-  <h2>💚 &nbsp;About Me </h2>
+<h2>💚 &nbsp;About Me </h2>
      <p>Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, JavaScript e React.
       </p>
       <br>
@@ -57,4 +53,9 @@
 <div align="center">
  
 
+</div>
+
+<br>
+  <div>
+<a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
