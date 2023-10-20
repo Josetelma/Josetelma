@@ -5,6 +5,7 @@
     <br>
     Meu nome é Josetelma :octocat:
     <a href="https://www.linkedin.com/in/edududuribeiro/"></a>
+    <a href="mailto:radijosirm@gmail.com"><img src="https://img.shields.io/badge/-josetelma.radijosirm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </h1>
   
   <p align="center">
