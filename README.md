@@ -5,7 +5,7 @@
 </h1>
 
 <h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
-     <p>Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, JavaScript e React.
+     <p>Sou uma programadora Front End. Atualmente, estou aprimorando minhas habilidades e trabalhando em projetos que envolvem HTML, CSS, JavaScript e React.
       </p>
       <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
