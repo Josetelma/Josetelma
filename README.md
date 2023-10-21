@@ -56,7 +56,7 @@
 
 <br>
   
-      &#x2763; Me segue nas redes abaixo!
+       Me segue nas redes abaixo!&#128071; &#127995;
 
 <div>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
