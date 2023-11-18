@@ -5,8 +5,7 @@
 </h1>
 
 <h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
-     <p>Sou uma entusiasta aprendiz em formação nas áreas de desenvolvimento FRONT-END e BACK-END, imersa na exploração fascinante do amplo universo da programação. A cada dia, minha paixão por este campo cresce, impulsionada pelas descobertas empolgantes. Atualmente, estou aprimorando ativamente minhas habilidades e atuando como Freelancer
-      </p>
+     <p>Sou uma entusiasta aprendiz em formação nas áreas de desenvolvimento FRONT-END e BACK-END, imersa na exploração fascinante do amplo universo da programação. A cada dia, minha paixão por este campo cresce, impulsionada pelas descobertas empolgantes. Atualmente, estou aprimorando ativamente minhas habilidades e atuando como Freelancer.</p>
       <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
       <h3>💻 &nbsp;Front-end:</h3>
