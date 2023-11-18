@@ -1,11 +1,11 @@
 <h1>
-    Olá  :blush: 
+   Hi :blush: 
     <br>
-    Meu nome é Josetelma :octocat:
+    My name is Josetelma :octocat:
 </h1>
 
 <h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
-     <p>Sou uma entusiasta aprendiz em formação nas áreas de desenvolvimento FRONT-END e BACK-END, imersa na exploração fascinante do amplo universo da programação. A cada dia, minha paixão por este campo cresce, impulsionada pelas descobertas empolgantes. Atualmente, estou aprimorando ativamente minhas habilidades e atuando como Freelancer.</p>
+     <p>I am an enthusiastic apprentice in training in the areas of FRONT-END and BACK-END development, immersed in the fascinating exploration of the broad universe of programming. Every day, my passion for this field grows, driven by exciting discoveries. I am currently actively improving my skills and working as a Freelancer.</p>
       <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
       <h3>💻 &nbsp;Front-end:</h3>
@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 <br>
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end e Banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
@@ -54,7 +54,7 @@
 
 <br>
   
-       >>> Me segue nas redes abaixo!
+       >>> Follow me on the networks below!
 
 <div>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
