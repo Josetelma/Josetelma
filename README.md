@@ -36,6 +36,7 @@
 </a>
 </div>
 <br>
+<br>
 
 <h3>🛠 &nbsp;Languages & Tools:</h3
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
