@@ -83,5 +83,5 @@
 
   Thanks for visiting. 
   <br>
-  <img src="https://media.giphy.com/media/rXqNdw9UKS45wsRpJL/giphy.gif" alt="cat" width="50">&nbsp;
+   <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="50">
 
