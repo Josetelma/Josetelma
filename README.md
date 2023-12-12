@@ -75,7 +75,7 @@
 <br>
 <br>
   
-       >>> Follow me on the networks below!
+       <strong> Follow me on the networks below!</strong>
 
 <div>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -86,7 +86,7 @@
   <br>
   <br>
 
-  Thanks for visiting. 
+  <strong>Thanks for visiting.</strong>
   <br>
    <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="50">
 
