@@ -7,14 +7,7 @@
 <h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
      <p>I am an enthusiastic apprentice in training in the areas of FRONT-END and BACK-END development, immersed in the fascinating exploration of the broad universe of programming. Every day, my passion for this field grows, driven by exciting discoveries. I am currently actively improving my skills and working as a Freelancer.</p>
       <br>
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50">
-<img  src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 2" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 3" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 4" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 5" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 6" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 7" width="50">
-<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 8" width="50">
+ <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50">
 <br>
     <h2> 🛠 &nbsp;Tech Stack</h2>
       <h3>💻 &nbsp;Front-end:</h3>
