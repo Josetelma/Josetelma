@@ -4,13 +4,13 @@
     <i>My name is Josetelma</i> :octocat:
 </h1>
 
-<h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
+<h2><i class="fa-brands fa-square-github"></i> &nbsp;<i>About Me</i> </h2>
 <br>
      <p>I am an enthusiastic apprentice in training in the areas of <strong>FRONT-END</strong> and <strong>BACK-END</strong> development, immersed in the fascinating exploration of the broad universe of programming. Every day, my passion for this field grows, driven by exciting discoveries. I am currently actively improving my skills and working as a Freelancer.</p>
  
 <br>
-    <h2> 🛠 &nbsp;Tech Stack:</h2>
-      <h3>💻 &nbsp;Front-end:</h3>
+    <h2> 🛠 &nbsp;<i>Tech Stack</i>:</h2>
+      <h3>💻 &nbsp;<i>Front-end</i>:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 <br>
-<h3>⚙️ &nbsp;Back-end e Banco de dados:</h3>
+<h3>⚙️ &nbsp;<i>Back-end e Banco de dados</i>:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<h3>🛠 &nbsp;Languages & Tools:</h3
+<h3>🛠 &nbsp;<i>Languages & Tools</i>:</h3
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> </code>
@@ -74,7 +74,7 @@
 <br>
 <br>
   
-       >>> Follow me on the networks below!
+       >>> <i>Follow me on the networks below!</i>
 
 <div>
 <a href="https://www.linkedin.com/in/josetelma-aparecida-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -85,7 +85,7 @@
   <br>
   <br>
 
-  <strong>Thanks for visiting.</strong>
+  <strong><i>Thanks for visiting</i>.</strong>
   <br>
    <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="50">
 
