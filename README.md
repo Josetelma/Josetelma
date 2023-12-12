@@ -60,6 +60,7 @@
 </p>
  
 <br>
+<br>
 
 <div align="center">
 
@@ -72,6 +73,7 @@
 </div>
 
 <br>
+<br>
   
        >>> Follow me on the networks below!
 
@@ -81,6 +83,7 @@
 <a href = "mailto:radijosirm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
+  <br>
   <br>
 
   Thanks for visiting. 
