@@ -9,7 +9,7 @@
       <br>
  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50">
 <br>
-    <h2> 🛠 &nbsp;Tech Stack</h2>
+    <h2> 🛠 &nbsp;Tech Stack:</h2>
       <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -36,7 +36,7 @@
 </div>
 <br>
 
-<p> Languages & Tools</p>
+<h3>🛠 &nbsp;Languages & Tools:</h3
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </code>
