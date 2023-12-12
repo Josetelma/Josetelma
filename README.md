@@ -82,5 +82,6 @@
   <br>
 
   Thanks for visiting. 
+  <br>
   <img src="https://media.giphy.com/media/rXqNdw9UKS45wsRpJL/giphy.gif" alt="cat" width="50">&nbsp;
 
