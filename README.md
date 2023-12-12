@@ -34,8 +34,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
 </a>
 </div>
+<br>
 
-
+<p> Languages & Tools</p>
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </code>
