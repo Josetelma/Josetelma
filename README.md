@@ -1,7 +1,7 @@
 <h1>
    Hi guys <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50"> 
     <br>
-    My name is <stong>Josetelma</stong> :octocat:
+    My name is <strong><i>Josetelma</i></strong> :octocat:
 </h1>
 
 <h2><i class="fa-brands fa-square-github"></i> &nbsp;About Me </h2>
